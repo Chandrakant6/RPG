@@ -1,2 +1,2 @@
 # RPG
-turn your lige into a RPG game
+turn your life into a RPG game
